@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+}
+body .main-doc #nav-bar {
+  width: 25%;
+}
+body .main-doc #nav-bar a {
+  text-align: center;
+}
+body .main-doc .section-div {
+  margin-left: 25%;
+}
+body .main-doc code {
+  background-color: black;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,22 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+
+}
+
+body {
+    padding: 0;
+    .main-doc {
+        #nav-bar {
+            width: 25%;
+            a {
+                text-align: center;
+            }
+        }
+        .section-div {
+            margin-left: 25%;
+        }
+        code {
+            background-color: black;
+        }
+    }
+}
